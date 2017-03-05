@@ -1,0 +1,14 @@
+psuedocode
+
+record name input for player 1, 
+record button click for player 1, 
+
+record name input for player 2,
+record button click for player 2,
+
+record win, 
+record loss, 
+
+send all of the above to database
+
+display on page from the database.  
